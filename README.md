@@ -1,1 +1,2 @@
 # Home_Sales
+This is my submission for the big data challenge. The goal of this assignment was to use PySpark in order to run queries on big datasets. We also used different methods in order to read the datasets quicker and more efficiently.
